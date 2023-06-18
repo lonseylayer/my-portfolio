@@ -1,0 +1,40 @@
+html{
+    background-image: url("sea-edge-79ab30e2.png");
+}
+.Welcome{
+    font-size: 70px;
+}
+.mountain{
+    padding-left: 400px ;
+}
+a{
+    color: rgb(0, 255, 42);
+} hr{ background-color: wheat;}
+body{
+    margin: 1%;
+    padding: 0.5%;
+}
+.poem{
+    border: 5px solid black;
+    margin: 1%;
+    padding: 1%; padding-bottom: 2% ;
+}
+.intro{
+    background-color: rgb(49, 45, 45);
+    padding: 2%;
+}
+.dp{
+    background-color: rgb(58, 57, 57); 
+    padding-top: 2%; padding-bottom: 2%;
+}
+.fb{
+    padding-left: 560px;
+    font-size: 100px;
+    color: #40A3E2;
+}
+.fbicon{
+    background-color: rgb(49, 45, 45); padding: 3%;
+}
+.spotify{
+    padding-left: 540px;
+}
